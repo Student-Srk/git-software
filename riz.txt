@@ -2,3 +2,5 @@ Assalamualaikum
 thanks for watching
 Pull and push commits
 Now push to github
+new code
+new rules
