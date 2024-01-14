@@ -4,3 +4,4 @@ Pull and push commits
 Now push to github
 new code
 new rules
+Today we learnt about creating git branch, git commit, git push and git pull commands.
