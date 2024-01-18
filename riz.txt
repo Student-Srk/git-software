@@ -7,3 +7,4 @@ new rules
 Today we learnt about creating git branch, git commit, git push and git pull commands.
 New technologies makes thinking capability great.
 Assalamualaikum
+New work
